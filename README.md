@@ -3,7 +3,7 @@ A simple reporting tool with Python and PostgreSQL.
 
 # Introduction
 
-This is a project wokrk for Udacity's Full Stack Nanodegree program where 
+This is a project work for Udacity's Full Stack Nanodegree program where 
 I explored a database with complex SQL queries. The project
 is similar to an internal reporting tool that uses a database to get log data
 and gain information about the user preferences and activity.
